@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on RastaLabs</title>
+    <link>https://rastalabs.net/post/index.xml</link>
+    <description>Recent content in Posts on RastaLabs</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-gb</language>
+    <copyright>Powered by [Hugo](//gohugo.io). Theme by [PPOffice](http://github.com/ppoffice).</copyright>
+    <lastBuildDate>Sun, 08 Jan 2017 15:31:22 +0000</lastBuildDate>
+    <atom:link href="https://rastalabs.net/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Crowdfunder</title>
+      <link>https://rastalabs.net/2017/01/08/crowdfunder</link>
+      <pubDate>Sun, 08 Jan 2017 15:31:22 +0000</pubDate>
+      
+      <guid>https://rastalabs.net/2017/01/08/crowdfunder</guid>
+      <description>&lt;p&gt;The goal of RastaLabs is to simulate a Windows-based corporate network - including Windows servers, desktops and applications.  From Exchange to SharePoint, there are many different targets one may come across in the real world.&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;
+
+&lt;p&gt;I feel the best way to achieve this is to purchase a valid MSDN subscription, which will give me access to all the necessary resources, downloads and licensing that are required my make this project a reality.&lt;/p&gt;
+
+&lt;p&gt;To that end, I&amp;rsquo;ve started a Crowdfunder to try and raise the capital.&lt;/p&gt;
+
+&lt;p&gt;I&amp;rsquo;ve set a goal of £1400 to cover the cost of MSDN, Crowdfunder and PayPal fees.&lt;/p&gt;
+
+&lt;p&gt;Even though the hardware for the lap already exists, it has a few shortcomings.  I&amp;rsquo;ve set a stretch goal of £2000, so that any additional money raised can go towards boosting the hardware.&lt;/p&gt;
+
+&lt;p&gt;If you wish to support the development of RastaLabs, please consider supporting it on &lt;a href=&#34;http://www.crowdfunder.co.uk/rastalabs&#34;&gt;Crowdfunder&lt;/a&gt;.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Introduction to RastaLabs</title>
+      <link>https://rastalabs.net/2017/01/07/introduction-to-rastalabs</link>
+      <pubDate>Sat, 07 Jan 2017 19:29:53 +0000</pubDate>
+      
+      <guid>https://rastalabs.net/2017/01/07/introduction-to-rastalabs</guid>
+      <description>&lt;p&gt;RastaLabs is a virtual environment, designed to simulate a real-life corporate network.  It&amp;rsquo;s primarily a Windows network, with other *nix systems, virtual firewalls, switches and possibly the odd IPS thrown in.  There are multiple subnets and subdomains for you to pivot through to reach the end.&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;what-s-the-goal&#34;&gt;What&amp;rsquo;s the goal?&lt;/h2&gt;
+
+&lt;p&gt;My goal is to provide a safe environment, in which one can practice honing their pentesting skills.  It&amp;rsquo;s a perfect place to test your tools and knowledge without having to build your own lab, or bork your clients production network.  The lab is specifically designed to cater for the current trend of pentesting frameworks, like PowerShell Empire, Cobalt Strike, PowerSploit &amp;amp; BloodHound.&lt;/p&gt;
+
+&lt;p&gt;Simulated clients enable you to enumerate sessions and take advantage of them for lateral movement and privilege escalation.  There are also more traditional vulnerabilities that can be pwned.  Hopefully, this lab will have something for everyone.&lt;/p&gt;
+
+&lt;p&gt;The environments get more locked down as you drill deeper - so don&amp;rsquo;t expect all the usual tricks to work as you progress.  After gaining access to &lt;code&gt;dmz.rastalabs.net&lt;/code&gt;, your goal is to gain Enterprise Admin rights on the &lt;code&gt;rastalabs.net&lt;/code&gt; parent domain.&lt;/p&gt;
+
+&lt;h2 id=&#34;how-can-i-play&#34;&gt;How can I play?&lt;/h2&gt;
+
+&lt;p&gt;There&amp;rsquo;s no registration to fill in, no dedicated VPN to access.  Simply visit &lt;a href=&#34;https://target.rastalabs.net&#34;&gt;https://target.rastalabs.net&lt;/a&gt; and hack your way in!  &lt;strong&gt;Tip:&lt;/strong&gt; Port 443 is the way forward - no need to portscan the sh*t out of the host.&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

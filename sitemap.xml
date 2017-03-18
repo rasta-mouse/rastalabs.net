@@ -2,8 +2,18 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>https://rastalabs.net/2017/01/08/crowdfunder</loc>
-    <lastmod>2017-01-08T15:31:22+00:00</lastmod>
+    <loc>https://rastalabs.net/register/</loc>
+    <lastmod>2017-03-18T11:11:33+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://rastalabs.net/faq/</loc>
+    <lastmod>2017-03-18T11:03:54+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://rastalabs.net/2017/03/18/progress-update</loc>
+    <lastmod>2017-03-18T10:03:20+00:00</lastmod>
   </url>
   
   <url>
@@ -18,13 +28,13 @@
   
   <url>
     <loc>https://rastalabs.net/post/</loc>
-    <lastmod>2017-01-08T15:31:22+00:00</lastmod>
+    <lastmod>2017-03-18T10:03:20+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://rastalabs.net/</loc>
-    <lastmod>2017-01-08T15:31:22+00:00</lastmod>
+    <lastmod>2017-03-18T11:11:33+00:00</lastmod>
     <priority>0</priority>
   </url>
   

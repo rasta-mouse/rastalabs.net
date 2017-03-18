@@ -7,30 +7,184 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-gb</language>
     <copyright>Powered by [Hugo](//gohugo.io). Theme by [PPOffice](http://github.com/ppoffice).</copyright>
-    <lastBuildDate>Sun, 08 Jan 2017 15:31:22 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 18 Mar 2017 11:11:33 +0000</lastBuildDate>
     <atom:link href="https://rastalabs.net/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
-      <title>Crowdfunder</title>
-      <link>https://rastalabs.net/2017/01/08/crowdfunder</link>
-      <pubDate>Sun, 08 Jan 2017 15:31:22 +0000</pubDate>
+      <title>Register</title>
+      <link>https://rastalabs.net/register/</link>
+      <pubDate>Sat, 18 Mar 2017 11:11:33 +0000</pubDate>
       
-      <guid>https://rastalabs.net/2017/01/08/crowdfunder</guid>
-      <description>&lt;p&gt;The goal of RastaLabs is to simulate a Windows-based corporate network - including Windows servers, desktops and applications.&lt;/p&gt;
+      <guid>https://rastalabs.net/register/</guid>
+      <description>&lt;p&gt;Registration is currently closed to the public.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>FAQ</title>
+      <link>https://rastalabs.net/faq/</link>
+      <pubDate>Sat, 18 Mar 2017 11:03:54 +0000</pubDate>
+      
+      <guid>https://rastalabs.net/faq/</guid>
+      <description>
+
+&lt;h4 id=&#34;general&#34;&gt;General&lt;/h4&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;#what-is-rastalabs&#34;&gt;What is RastaLabs?&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#when-will-it-be-ready&#34;&gt;When will it be ready?&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h4 id=&#34;registration&#34;&gt;Registration&lt;/h4&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;#how-can-i-register&#34;&gt;How can I register?&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#is-there-a-waiting-list&#34;&gt;Is there a waiting list?&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#what-happens-to-idle-users&#34;&gt;What happens to idle users?&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#what-about-backers&#34;&gt;What about backers?&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h4 id=&#34;access&#34;&gt;Access&lt;/h4&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;#how-can-i-access-rastalabs&#34;&gt;How can I access RastaLabs?&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#can-i-share-my-connection-details&#34;&gt;Can I share my connection details?&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h5 id=&#34;what-is-rastalabs&#34;&gt;What is RastaLabs?&lt;/h5&gt;
+
+&lt;p&gt;RastaLabs is a penetration environmment, designed to simulate elements of a corporate network.&lt;/p&gt;
+
+&lt;h5 id=&#34;when-will-it-be-ready&#34;&gt;When will it be ready?&lt;/h5&gt;
+
+&lt;p&gt;How long is a piece of string?  I want RastaLabs to fulfil my expectations and vision before making it available but I have a few time constraints, like being a new Dad.  I understand this may be particularly frustrating to the backers, but that&amp;rsquo;s life.  I will be launching a Private Beta for the backers before public release, but I don&amp;rsquo;t have any ETAs at this time.&lt;/p&gt;
+
+&lt;h5 id=&#34;how-can-i-register&#34;&gt;How can I register?&lt;/h5&gt;
+
+&lt;p&gt;Go to the &lt;a href=&#34;https://rastalabs.net/register&#34;&gt;registration page&lt;/a&gt; and complete the form.&lt;/p&gt;
+
+&lt;h5 id=&#34;is-there-a-waiting-list&#34;&gt;Is there a waiting list?&lt;/h5&gt;
+
+&lt;p&gt;The expectation should be yes - although at this point, I am not sure of what the maximum number of concurrent users will be.&lt;/p&gt;
+
+&lt;h5 id=&#34;what-happens-to-idle-users&#34;&gt;What happens to idle users?&lt;/h5&gt;
+
+&lt;p&gt;Idle users - i.e, users who have not connected to the VPN for over &lt;strong&gt;30 days&lt;/strong&gt;, should expect to have their credentials revoked.  At which point they will have to re-register and join the back of the waiting list.&lt;/p&gt;
+
+&lt;h5 id=&#34;what-about-backers&#34;&gt;What about backers?&lt;/h5&gt;
+
+&lt;p&gt;Those who backed the Crowdfunder have priority access to the labs.  They are exempt from the waiting and idle lists.&lt;/p&gt;
+
+&lt;h5 id=&#34;how-can-i-access-rastalabs&#34;&gt;How can I access RastaLabs?&lt;/h5&gt;
+
+&lt;p&gt;Once you have registered and there is capacity available for you to enter the lab, you will be provided with VPN connection details.  This includes TLS key material, a username and password.&lt;/p&gt;
+
+&lt;h5 id=&#34;can-i-share-my-connection-details&#34;&gt;Can I share my connection details?&lt;/h5&gt;
+
+&lt;p&gt;I technically can&amp;rsquo;t stop you, but each user is (currently) limited to &lt;strong&gt;1&lt;/strong&gt; concurrent connection.  The more you share your VPN details, the less likely you will be able to use it yourself.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Progress Update</title>
+      <link>https://rastalabs.net/2017/03/18/progress-update</link>
+      <pubDate>Sat, 18 Mar 2017 10:03:20 +0000</pubDate>
+      
+      <guid>https://rastalabs.net/2017/03/18/progress-update</guid>
+      <description>&lt;p&gt;A brief update on progress with RastaLabs.&lt;/p&gt;
 
 &lt;p&gt;&lt;/p&gt;
 
-&lt;p&gt;I feel the best way to achieve this is to purchase a valid MSDN subscription, which will give me access to all the necessary resources, downloads and licensing that are required my make this project a reality.&lt;/p&gt;
+&lt;p&gt;Even though I&amp;rsquo;ve been pretty quiet since the Crowdfunder for RastaLabs closed, I have been doing a bunch of work behind the scenes - the majority of effort has been around trying to finalise the server hardware configuration and choice of hypervisor.&lt;/p&gt;
 
-&lt;p&gt;To that end, I&amp;rsquo;ve started a Crowdfunder to try and raise the capital.&lt;/p&gt;
+&lt;p&gt;I&amp;rsquo;ve been playing with VMWare ESXi, UnRAID, Citrix XenServer and Proxmox - each have their own strengths and weaknesses.  In the end I decided on Proxmox - it&amp;rsquo;s easy to use and has a good amount of useful features such as VM templates and scheduled backups.&lt;/p&gt;
 
-&lt;p&gt;I&amp;rsquo;ve set a goal of £1400 to cover the cost of &amp;lsquo;pro&amp;rsquo; MSDN, which gives access to everything listed &lt;a href=&#34;https://download.microsoft.com/download/1/5/4/15454442-CF17-47B9-A65D-DF84EF88511B/Products_by_Benefit_Level.xlsx&#34;&gt;here&lt;/a&gt;; Crowdfunder and PayPal fees.&lt;/p&gt;
+&lt;p&gt;The hardware list is as follows:&lt;/p&gt;
 
-&lt;p&gt;Even though the hardware for the lap already exists, it has a few shortcomings.  I&amp;rsquo;ve set a stretch goal of £2000, so that any additional money raised can go towards boosting the hardware.&lt;/p&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;Component&lt;/th&gt;
+&lt;th&gt;Make/Model&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
 
-&lt;p&gt;If you wish to support the development of RastaLabs, please consider supporting it on &lt;a href=&#34;http://www.crowdfunder.co.uk/rastalabs&#34;&gt;Crowdfunder&lt;/a&gt;.&lt;/p&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;Motherboard&lt;/td&gt;
+&lt;td&gt;ASRock EP2C602-4L/D16&lt;/td&gt;
+&lt;/tr&gt;
 
-&lt;p&gt;For the foreseeable future, I intend for this project to be free for everybody to enjoy.  However, people who choose to back the Crowdfund have an upfront guarantee of free access for the lifetime of the project, even &lt;em&gt;if&lt;/em&gt; I start charging.&lt;/p&gt;</description>
+&lt;tr&gt;
+&lt;td&gt;CPU&lt;/td&gt;
+&lt;td&gt;2 x Intel Xeon E5-2670&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;2 x Noctua NH-U12DX i4&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;RAM&lt;/td&gt;
+&lt;td&gt;64GB Kingston HyperX Savage&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;Storage&lt;/td&gt;
+&lt;td&gt;Samsung 840 EVO 250GB SSD&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;SanDisk Ultra Plus 256GB SSD&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;4 x 1TB WD Red&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;6TB WD Red&lt;sup class=&#34;footnote-ref&#34; id=&#34;fnref:1&#34;&gt;&lt;a rel=&#34;footnote&#34; href=&#34;#fn:1&#34;&gt;1&lt;/a&gt;&lt;/sup&gt;&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;Power Supply&lt;/td&gt;
+&lt;td&gt;Seasonic P860 860W 80+ Platinum&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;Case&lt;/td&gt;
+&lt;td&gt;Logic Case SC-416A&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;p&gt;I&amp;rsquo;ve been experimenting with storage in an effort to provide a good balance of capacity, resiliancy and backups.  The configuration I have settled on is:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Samsung 840 EVO as the boot drive&lt;/li&gt;
+&lt;li&gt;SanDisk Ultra Plus as an ISO store&lt;/li&gt;
+&lt;li&gt;The 4 x 1TB WD drives configured in RAID 10&lt;sup class=&#34;footnote-ref&#34; id=&#34;fnref:2&#34;&gt;&lt;a rel=&#34;footnote&#34; href=&#34;#fn:2&#34;&gt;2&lt;/a&gt;&lt;/sup&gt; for the VM store.  4TB in RAID 10 yields ~2TB of useable storage.&lt;/li&gt;
+&lt;li&gt;The 6TB WD drive is used as a backup drive in Proxmox.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;Thank you for your continued support.&lt;/p&gt;
+&lt;div class=&#34;footnotes&#34;&gt;
+
+&lt;hr /&gt;
+
+&lt;ol&gt;
+&lt;li id=&#34;fn:1&#34;&gt;Generiously dontated by &lt;a href=&#34;https://twitter.com/g0tmi1k&#34;&gt;g0tmi1k&lt;/a&gt;
+ &lt;a class=&#34;footnote-return&#34; href=&#34;#fnref:1&#34;&gt;↩&lt;/a&gt;&lt;/li&gt;
+&lt;li id=&#34;fn:2&#34;&gt;Without getting into a RAID 5 vs RAID 10 argument here; the reason I chose R10 over R5 (even though 5 would yield more capacity), is because R10 suffers a lower performance hit when having to replace a drive and rebuild the array.  Also note that this is software RAID, using &lt;code&gt;mdadm&lt;/code&gt;.
+ &lt;a class=&#34;footnote-return&#34; href=&#34;#fnref:2&#34;&gt;↩&lt;/a&gt;&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/div&gt;</description>
     </item>
     
     <item>
@@ -44,8 +198,9 @@
 &lt;p&gt;For general chit-chat:&lt;/p&gt;
 
 &lt;ul&gt;
-&lt;li&gt;Twitter : &lt;a href=&#34;https://twitter.com/_RastaMouse&#34;&gt;https://twitter.com/_RastaMouse&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;IRC : #rastalabs on Freenode&lt;/li&gt;
+&lt;li&gt;@_RastaMouse on &lt;a href=&#34;https://twitter.com/_RastaMouse&#34;&gt;Twitter&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;#rastalabs on Freenode&lt;/li&gt;
+&lt;li&gt;RastaLabs on &lt;a href=&#34;https://rastalabs.slack.com/&#34;&gt;Slack&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
 &lt;p&gt;For reporting problems or suggestions/improvements:&lt;/p&gt;
@@ -63,21 +218,23 @@
       <pubDate>Sat, 07 Jan 2017 19:29:53 +0000</pubDate>
       
       <guid>https://rastalabs.net/2017/01/07/introduction-to-rastalabs</guid>
-      <description>&lt;p&gt;RastaLabs is a virtual environment, designed to simulate a real-life corporate network.  It&amp;rsquo;s primarily a Windows network, with other *nix systems, virtual firewalls, switches and possibly the odd IPS thrown in.  There are multiple subnets and subdomains for you to pivot through to reach the end.&lt;/p&gt;
+      <description>&lt;p&gt;RastaLabs is a virtual environment, designed to simulate elements of a real-life corporate network.  It&amp;rsquo;s primarily a Windows network, with other *nix systems, virtual firewalls, switches and possibly the odd IPS thrown in (under construction).&lt;/p&gt;
 
 &lt;p&gt;&lt;/p&gt;
 
 &lt;h2 id=&#34;what-s-the-goal&#34;&gt;What&amp;rsquo;s the goal?&lt;/h2&gt;
 
-&lt;p&gt;My goal is to provide a safe environment, in which one can practice honing their pentesting skills.  It&amp;rsquo;s a perfect place to test your tools and knowledge without having to build your own lab, or bork your clients production network.  The lab is specifically designed to cater for the current trend of pentesting frameworks, like PowerShell Empire, Cobalt Strike, PowerSploit &amp;amp; BloodHound.&lt;/p&gt;
+&lt;p&gt;My goal is to provide a safe environment, in which one can practice honing their pentesting skills.  It&amp;rsquo;s a great place to test your tools and knowledge without having to build your own lab, or bork your clients production network.  The lab is specifically designed to cater for the current trend of pentesting frameworks, like PowerShell Empire, Cobalt Strike, PowerSploit, BloodHound and so-on.&lt;/p&gt;
 
-&lt;p&gt;Simulated clients enable you to enumerate sessions and take advantage of them for lateral movement and privilege escalation.  There are also more traditional vulnerabilities that can be pwned.  Hopefully, this lab will have something for everyone.&lt;/p&gt;
-
-&lt;p&gt;The environments get more locked down as you drill deeper - so don&amp;rsquo;t expect all the usual tricks to work as you progress.  After gaining access to &lt;code&gt;dmz.rastalabs.net&lt;/code&gt;, your goal is to gain Enterprise Admin rights on the &lt;code&gt;rastalabs.net&lt;/code&gt; parent domain.&lt;/p&gt;
+&lt;p&gt;Simulated users enable you to enumerate sessions and take advantage of them for lateral movement and privilege escalation.  There are also more traditional vulnerabilities that can be pwned.  Hopefully, this lab will have something for everyone.&lt;/p&gt;
 
 &lt;h2 id=&#34;how-can-i-play&#34;&gt;How can I play?&lt;/h2&gt;
 
-&lt;p&gt;There&amp;rsquo;s no registration to fill in, no dedicated VPN to access.  Simply visit &lt;a href=&#34;https://target.rastalabs.net&#34;&gt;https://target.rastalabs.net&lt;/a&gt; and hack your way in!  &lt;strong&gt;Tip:&lt;/strong&gt; Port 443 is the way forward - no need to portscan the sh*t out of the host.&lt;/p&gt;</description>
+&lt;p&gt;The lab is current in development and is not yet open to players.&lt;/p&gt;
+
+&lt;p&gt;Access will be provided via a VPN connection upon registration on a first-come, first-served basis.  Idle players will have their access revoked in favour of those on the waiting list.  This is purely a Capacity Management exercise.  See the &lt;a href=&#34;https://rastalabs.net/faq&#34;&gt;FAQ&lt;/a&gt; for specifics.&lt;/p&gt;
+
+&lt;p&gt;Backers of the Crowdfund campaign have first dibs.&lt;/p&gt;</description>
     </item>
     
   </channel>

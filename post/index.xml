@@ -2,139 +2,47 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on RastaLabs</title>
-    <link>https://rastalabs.net/post/index.xml</link>
+    <link>https://rastalabs.net/post/</link>
     <description>Recent content in Posts on RastaLabs</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-gb</language>
     <copyright>Powered by [Hugo](//gohugo.io). Theme by [PPOffice](http://github.com/ppoffice).</copyright>
-    <lastBuildDate>Sat, 18 Mar 2017 10:03:20 +0000</lastBuildDate>
-    <atom:link href="https://rastalabs.net/post/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 21 May 2017 15:13:20 +0000</lastBuildDate>
+    
+	<atom:link href="https://rastalabs.net/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Progress Update 2</title>
+      <link>https://rastalabs.net/2017/05/21/progress-update-2/</link>
+      <pubDate>Sun, 21 May 2017 15:13:20 +0000</pubDate>
+      
+      <guid>https://rastalabs.net/2017/05/21/progress-update-2/</guid>
+      <description>&lt;p&gt;If you follow me on &lt;a href=&#34;https://twitter.com/_RastaMouse&#34;&gt;Twitter&lt;/a&gt;, you may have seen some &lt;a href=&#34;https://twitter.com/_RastaMouse/status/860783098388254722&#34;&gt;Tweets&lt;/a&gt; related to phishing in RastaLabs.&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
     
     <item>
       <title>Progress Update</title>
-      <link>https://rastalabs.net/2017/03/18/progress-update</link>
+      <link>https://rastalabs.net/2017/03/18/progress-update/</link>
       <pubDate>Sat, 18 Mar 2017 10:03:20 +0000</pubDate>
       
-      <guid>https://rastalabs.net/2017/03/18/progress-update</guid>
+      <guid>https://rastalabs.net/2017/03/18/progress-update/</guid>
       <description>&lt;p&gt;A brief update on progress with RastaLabs.&lt;/p&gt;
 
-&lt;p&gt;&lt;/p&gt;
-
-&lt;p&gt;Even though I&amp;rsquo;ve been pretty quiet since the Crowdfunder for RastaLabs closed, I have been doing a bunch of work behind the scenes - the majority of effort has been around trying to finalise the server hardware configuration and choice of hypervisor.&lt;/p&gt;
-
-&lt;p&gt;I&amp;rsquo;ve been playing with VMWare ESXi, UnRAID, Citrix XenServer and Proxmox - each have their own strengths and weaknesses.  In the end I decided on Proxmox - it&amp;rsquo;s easy to use and has a good amount of useful features such as VM templates and scheduled backups.&lt;/p&gt;
-
-&lt;p&gt;The hardware list is as follows:&lt;/p&gt;
-
-&lt;table&gt;
-&lt;thead&gt;
-&lt;tr&gt;
-&lt;th&gt;Component&lt;/th&gt;
-&lt;th&gt;Make/Model&lt;/th&gt;
-&lt;/tr&gt;
-&lt;/thead&gt;
-
-&lt;tbody&gt;
-&lt;tr&gt;
-&lt;td&gt;Motherboard&lt;/td&gt;
-&lt;td&gt;ASRock EP2C602-4L/D16&lt;/td&gt;
-&lt;/tr&gt;
-
-&lt;tr&gt;
-&lt;td&gt;CPU&lt;/td&gt;
-&lt;td&gt;2 x Intel Xeon E5-2670&lt;/td&gt;
-&lt;/tr&gt;
-
-&lt;tr&gt;
-&lt;td&gt;&lt;/td&gt;
-&lt;td&gt;2 x Noctua NH-U12DX i4&lt;/td&gt;
-&lt;/tr&gt;
-
-&lt;tr&gt;
-&lt;td&gt;RAM&lt;/td&gt;
-&lt;td&gt;64GB Kingston HyperX Savage&lt;/td&gt;
-&lt;/tr&gt;
-
-&lt;tr&gt;
-&lt;td&gt;Storage&lt;/td&gt;
-&lt;td&gt;Samsung 840 EVO 250GB SSD&lt;/td&gt;
-&lt;/tr&gt;
-
-&lt;tr&gt;
-&lt;td&gt;&lt;/td&gt;
-&lt;td&gt;SanDisk Ultra Plus 256GB SSD&lt;/td&gt;
-&lt;/tr&gt;
-
-&lt;tr&gt;
-&lt;td&gt;&lt;/td&gt;
-&lt;td&gt;4 x 1TB WD Red&lt;/td&gt;
-&lt;/tr&gt;
-
-&lt;tr&gt;
-&lt;td&gt;&lt;/td&gt;
-&lt;td&gt;6TB WD Red&lt;sup class=&#34;footnote-ref&#34; id=&#34;fnref:1&#34;&gt;&lt;a rel=&#34;footnote&#34; href=&#34;#fn:1&#34;&gt;1&lt;/a&gt;&lt;/sup&gt;&lt;/td&gt;
-&lt;/tr&gt;
-
-&lt;tr&gt;
-&lt;td&gt;Power Supply&lt;/td&gt;
-&lt;td&gt;Seasonic P860 860W 80+ Platinum&lt;/td&gt;
-&lt;/tr&gt;
-
-&lt;tr&gt;
-&lt;td&gt;Case&lt;/td&gt;
-&lt;td&gt;Logic Case SC-416A&lt;/td&gt;
-&lt;/tr&gt;
-&lt;/tbody&gt;
-&lt;/table&gt;
-
-&lt;p&gt;I&amp;rsquo;ve been experimenting with storage in an effort to provide a good balance of capacity, resiliancy and backups.  The configuration I have settled on is:&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Samsung 840 EVO as the boot drive&lt;/li&gt;
-&lt;li&gt;SanDisk Ultra Plus as an ISO store&lt;/li&gt;
-&lt;li&gt;The 4 x 1TB WD drives configured in RAID 10&lt;sup class=&#34;footnote-ref&#34; id=&#34;fnref:2&#34;&gt;&lt;a rel=&#34;footnote&#34; href=&#34;#fn:2&#34;&gt;2&lt;/a&gt;&lt;/sup&gt; for the VM store.  4TB in RAID 10 yields ~2TB of useable storage.&lt;/li&gt;
-&lt;li&gt;The 6TB WD drive is used as a backup drive in Proxmox.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;hr /&gt;
-
-&lt;p&gt;Thank you for your continued support.&lt;/p&gt;
-&lt;div class=&#34;footnotes&#34;&gt;
-
-&lt;hr /&gt;
-
-&lt;ol&gt;
-&lt;li id=&#34;fn:1&#34;&gt;Generiously dontated by &lt;a href=&#34;https://twitter.com/g0tmi1k&#34;&gt;g0tmi1k&lt;/a&gt;
- &lt;a class=&#34;footnote-return&#34; href=&#34;#fnref:1&#34;&gt;↩&lt;/a&gt;&lt;/li&gt;
-&lt;li id=&#34;fn:2&#34;&gt;Without getting into a RAID 5 vs RAID 10 argument here; the reason I chose R10 over R5 (even though 5 would yield more capacity), is because R10 suffers a lower performance hit when having to replace a drive and rebuild the array.  Also note that this is software RAID, using &lt;code&gt;mdadm&lt;/code&gt;.
- &lt;a class=&#34;footnote-return&#34; href=&#34;#fnref:2&#34;&gt;↩&lt;/a&gt;&lt;/li&gt;
-&lt;/ol&gt;
-&lt;/div&gt;</description>
+&lt;p&gt;&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>Introduction to RastaLabs</title>
-      <link>https://rastalabs.net/2017/01/07/introduction-to-rastalabs</link>
+      <link>https://rastalabs.net/2017/01/07/introduction-to-rastalabs/</link>
       <pubDate>Sat, 07 Jan 2017 19:29:53 +0000</pubDate>
       
-      <guid>https://rastalabs.net/2017/01/07/introduction-to-rastalabs</guid>
+      <guid>https://rastalabs.net/2017/01/07/introduction-to-rastalabs/</guid>
       <description>&lt;p&gt;RastaLabs is a virtual environment, designed to simulate elements of a real-life corporate network.  It&amp;rsquo;s primarily a Windows network, with other *nix systems, virtual firewalls, switches and possibly the odd IPS thrown in (under construction).&lt;/p&gt;
 
-&lt;p&gt;&lt;/p&gt;
-
-&lt;h2 id=&#34;what-s-the-goal&#34;&gt;What&amp;rsquo;s the goal?&lt;/h2&gt;
-
-&lt;p&gt;My goal is to provide a safe environment, in which one can practice honing their pentesting skills.  It&amp;rsquo;s a great place to test your tools and knowledge without having to build your own lab, or bork your clients production network.  The lab is specifically designed to cater for the current trend of pentesting frameworks, like PowerShell Empire, Cobalt Strike, PowerSploit, BloodHound and so-on.&lt;/p&gt;
-
-&lt;p&gt;Simulated users enable you to enumerate sessions and take advantage of them for lateral movement and privilege escalation.  There are also more traditional vulnerabilities that can be pwned.  Hopefully, this lab will have something for everyone.&lt;/p&gt;
-
-&lt;h2 id=&#34;how-can-i-play&#34;&gt;How can I play?&lt;/h2&gt;
-
-&lt;p&gt;The lab is current in development and is not yet open to players.&lt;/p&gt;
-
-&lt;p&gt;Access will be provided via a VPN connection upon registration on a first-come, first-served basis.  Idle players will have their access revoked in favour of those on the waiting list.  This is purely a Capacity Management exercise.  See the &lt;a href=&#34;https://rastalabs.net/faq&#34;&gt;FAQ&lt;/a&gt; for specifics.&lt;/p&gt;
-
-&lt;p&gt;Backers of the Crowdfund campaign have first dibs.&lt;/p&gt;</description>
+&lt;p&gt;&lt;/p&gt;</description>
     </item>
     
   </channel>

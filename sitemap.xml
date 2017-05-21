@@ -2,6 +2,11 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://rastalabs.net/2017/05/21/progress-update-2/</loc>
+    <lastmod>2017-05-21T15:13:20+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://rastalabs.net/register/</loc>
     <lastmod>2017-03-18T11:11:33+00:00</lastmod>
   </url>
@@ -12,7 +17,7 @@
   </url>
   
   <url>
-    <loc>https://rastalabs.net/2017/03/18/progress-update</loc>
+    <loc>https://rastalabs.net/2017/03/18/progress-update/</loc>
     <lastmod>2017-03-18T10:03:20+00:00</lastmod>
   </url>
   
@@ -22,19 +27,29 @@
   </url>
   
   <url>
-    <loc>https://rastalabs.net/2017/01/07/introduction-to-rastalabs</loc>
+    <loc>https://rastalabs.net/2017/01/07/introduction-to-rastalabs/</loc>
     <lastmod>2017-01-07T19:29:53+00:00</lastmod>
   </url>
   
   <url>
+    <loc>https://rastalabs.net/categories/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://rastalabs.net/post/</loc>
-    <lastmod>2017-03-18T10:03:20+00:00</lastmod>
+    <lastmod>2017-05-21T15:13:20+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://rastalabs.net/</loc>
-    <lastmod>2017-03-18T11:11:33+00:00</lastmod>
+    <lastmod>2017-05-21T15:13:20+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://rastalabs.net/tags/</loc>
     <priority>0</priority>
   </url>
   

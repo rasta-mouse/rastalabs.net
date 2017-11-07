@@ -14,10 +14,10 @@
 <title>
 
 
-     404 Page not found 
+     Blogs 
 
 </title>
-<link rel="canonical" href="">
+<link rel="canonical" href="https://rastalabs.net/blog/">
 
 
 
@@ -57,7 +57,7 @@
 
 
 
-  <link href="https://rastalabs.net/index.xml" rel="alternate" type="application/rss+xml" title="RastaLabs" />
+  <link href="https://rastalabs.net/blog/index.xml" rel="alternate" type="application/rss+xml" title="RastaLabs" />
 
 
 
@@ -68,12 +68,12 @@
 
 <div class="section" id="top">
 
-    <div class="container hero is-medium has-text-centered  fade-in one ">
-    <h1 class="bold-title is-1">404</h1>
+    <div class="container hero  fade-in one ">
+    <h1 class="bold-title is-1">RastaLabs's Blog</h1>
     </div>
 
-
-<div class="section  fade-in two ">
+    
+    <div class="section no-padding  fade-in two ">
 
     <div class="container">
     <hr>
@@ -91,11 +91,6 @@
         <a href="https://rastalabs.net/#about">About</a> 
       </span>
     
-    
-      <span class="nav-item">
-        <a href="https://rastalabs.net/blog">Back to blog</a>
-      </span> 
-    
       <span class="nav-item">
         <a href="https://rastalabs.net/#contact">Contact</a>
       </span>
@@ -108,12 +103,47 @@
 </nav>
 <hr>
     </div>
+       
+    <div class="container">
 
-    <div class="container  fade-in two  top-pad">
-        Oops! Either you've found a bug (in which case, <a href="mailto:rasta@rastamouse.me">please tell me</a>) or you're just making things up. This page doesn't exist!
+    
+    <h2 class="title is-2 top-pad">Latest Post</h2>
+         
+        <div class="summary">Nov 7, 2017
+            <h3 class="title is-3 strong-post-title"><a href="https://rastalabs.net/blog/hack-the-box/">Hack The Box</a></h3>
+                <div class="markdown">
+                <h2 id="rastalabs-annoucement">RastaLabs Annoucement</h2>
+
+<p>I&rsquo;m excited to announce that I&rsquo;ve teamed up with <a href="https://www.hackthebox.eu/">Hack The Box</a> to bring RastaLabs to the masses!</p>
+
+<p></p>
+                
+                <a href="https://rastalabs.net/blog/hack-the-box/">...Read More</a>
+                
+                </div>
+        </div>
+        
+    
+
+    <h2 class="title is-2 top-pad">All Posts</h2>
+        <ul>
+        
+            
+                <li class="post-item">
+    <span><a href="https://rastalabs.net/blog/hack-the-box/">Hack The Box</a></span> - <span>Nov 7, 2017</span>
+</li>
+            
+        
+        </ul>
+
     </div>
 
-<div class="top-pad"><hr></div>
+<div class="container has-text-centered top-pad">
+<hr>
+<a href="https://rastalabs.net/blog/#top"><i class="fa fa-arrow-up"></i></a>
+<hr>
+</div>
+
 <div class="section" id="footer">
     <div class="container has-text-centered">
         
@@ -123,3 +153,18 @@
 </div>
 
 </div>
+</div>
+
+
+<script>
+$('a[href^="https:\/\/rastalabs.net\/blog\/#"]').click(function(e) {
+    e.preventDefault();
+    var target = this.hash;
+    $('html, body').animate({
+    scrollTop: $(target).offset().top
+    }, 500);
+    return false;
+})
+</script>
+
+</body>

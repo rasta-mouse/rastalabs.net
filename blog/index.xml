@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Blogs on RastaLabs</title>
+    <link>https://rastalabs.net/blog/</link>
+    <description>Recent content in Blogs on RastaLabs</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 07 Nov 2017 20:05:13 +0000</lastBuildDate>
+    
+	<atom:link href="https://rastalabs.net/blog/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Hack The Box</title>
+      <link>https://rastalabs.net/blog/hack-the-box/</link>
+      <pubDate>Tue, 07 Nov 2017 20:05:13 +0000</pubDate>
+      
+      <guid>https://rastalabs.net/blog/hack-the-box/</guid>
+      <description>&lt;h2 id=&#34;rastalabs-annoucement&#34;&gt;RastaLabs Annoucement&lt;/h2&gt;
+
+&lt;p&gt;I&amp;rsquo;m excited to announce that I&amp;rsquo;ve teamed up with &lt;a href=&#34;https://www.hackthebox.eu/&#34;&gt;Hack The Box&lt;/a&gt; to bring RastaLabs to the masses!&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

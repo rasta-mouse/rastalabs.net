@@ -5,88 +5,33 @@
     <link>https://rastalabs.net/</link>
     <description>Recent content on RastaLabs</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-gb</language>
-    <copyright>Powered by [Hugo](//gohugo.io). Theme by [PPOffice](http://github.com/ppoffice).</copyright>
-    <lastBuildDate>Sun, 21 May 2017 15:13:20 +0000</lastBuildDate>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 07 Nov 2017 20:05:13 +0000</lastBuildDate>
     
 	<atom:link href="https://rastalabs.net/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Progress Update 2</title>
-      <link>https://rastalabs.net/2017/05/21/progress-update-2/</link>
-      <pubDate>Sun, 21 May 2017 15:13:20 +0000</pubDate>
+      <title>Hack The Box</title>
+      <link>https://rastalabs.net/blog/hack-the-box/</link>
+      <pubDate>Tue, 07 Nov 2017 20:05:13 +0000</pubDate>
       
-      <guid>https://rastalabs.net/2017/05/21/progress-update-2/</guid>
-      <description>&lt;p&gt;If you follow me on &lt;a href=&#34;https://twitter.com/_RastaMouse&#34;&gt;Twitter&lt;/a&gt;, you may have seen some &lt;a href=&#34;https://twitter.com/_RastaMouse/status/860783098388254722&#34;&gt;Tweets&lt;/a&gt; related to phishing in RastaLabs.&lt;/p&gt;
+      <guid>https://rastalabs.net/blog/hack-the-box/</guid>
+      <description>&lt;h2 id=&#34;rastalabs-annoucement&#34;&gt;RastaLabs Annoucement&lt;/h2&gt;
+
+&lt;p&gt;I&amp;rsquo;m excited to announce that I&amp;rsquo;ve teamed up with &lt;a href=&#34;https://www.hackthebox.eu/&#34;&gt;Hack The Box&lt;/a&gt; to bring RastaLabs to the masses!&lt;/p&gt;
 
 &lt;p&gt;&lt;/p&gt;</description>
     </item>
     
     <item>
-      <title>Register</title>
-      <link>https://rastalabs.net/register/</link>
-      <pubDate>Sat, 18 Mar 2017 11:11:33 +0000</pubDate>
+      <title>about</title>
+      <link>https://rastalabs.net/about/</link>
+      <pubDate>Tue, 07 Nov 2017 20:05:13 +0000</pubDate>
       
-      <guid>https://rastalabs.net/register/</guid>
-      <description>Registration is currently closed to the public.</description>
-    </item>
-    
-    <item>
-      <title>FAQ</title>
-      <link>https://rastalabs.net/faq/</link>
-      <pubDate>Sat, 18 Mar 2017 11:03:54 +0000</pubDate>
-      
-      <guid>https://rastalabs.net/faq/</guid>
-      <description>General  What is RastaLabs? When will it be ready?  Registration  How can I register? Is there a waiting list? What happens to idle users? What about backers?  Access  How can I access RastaLabs? Can I share my connection details?  What is RastaLabs? RastaLabs is a penetration environmment, designed to simulate elements of a corporate network.
-When will it be ready? How long is a piece of string?</description>
-    </item>
-    
-    <item>
-      <title>Progress Update</title>
-      <link>https://rastalabs.net/2017/03/18/progress-update/</link>
-      <pubDate>Sat, 18 Mar 2017 10:03:20 +0000</pubDate>
-      
-      <guid>https://rastalabs.net/2017/03/18/progress-update/</guid>
-      <description>&lt;p&gt;A brief update on progress with RastaLabs.&lt;/p&gt;
-
-&lt;p&gt;&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>Contact</title>
-      <link>https://rastalabs.net/contact/</link>
-      <pubDate>Sun, 08 Jan 2017 12:01:29 +0000</pubDate>
-      
-      <guid>https://rastalabs.net/contact/</guid>
-      <description>&lt;p&gt;If you wish to contact me regarding this project, please choose from the following options.&lt;/p&gt;
-
-&lt;p&gt;For general chit-chat:&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;@_RastaMouse on &lt;a href=&#34;https://twitter.com/_RastaMouse&#34;&gt;Twitter&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;#rastalabs on Freenode&lt;/li&gt;
-&lt;li&gt;RastaLabs on &lt;a href=&#34;https://rastalabs.slack.com/&#34;&gt;Slack&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;For reporting problems or suggestions/improvements:&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://github.com/rasta-mouse/rastalabs.net/issues&#34;&gt;https://github.com/rasta-mouse/rastalabs.net/issues&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>Introduction to RastaLabs</title>
-      <link>https://rastalabs.net/2017/01/07/introduction-to-rastalabs/</link>
-      <pubDate>Sat, 07 Jan 2017 19:29:53 +0000</pubDate>
-      
-      <guid>https://rastalabs.net/2017/01/07/introduction-to-rastalabs/</guid>
-      <description>&lt;p&gt;RastaLabs is a virtual environment, designed to simulate elements of a real-life corporate network.  It&amp;rsquo;s primarily a Windows network, with other *nix systems, virtual firewalls, switches and possibly the odd IPS thrown in (under construction).&lt;/p&gt;
-
-&lt;p&gt;&lt;/p&gt;</description>
+      <guid>https://rastalabs.net/about/</guid>
+      <description>RastaLabs is a virtual environment designed to be attacked as a means of learning and honing your engagement skills. The lab was created using my experience of pentesting over the years, allowing me to recreate interesting scenarios.
+The focus of the lab is operting within a Windows Active Directory environment, where players must gain a foothold, elevate their privilege, be persistent and move laterally to reach the goal of Domain Admin.</description>
     </item>
     
   </channel>

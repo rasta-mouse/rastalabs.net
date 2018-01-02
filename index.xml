@@ -31,7 +31,7 @@
       
       <guid>https://rastalabs.net/about/</guid>
       <description>RastaLabs is a virtual environment designed to be attacked as a means of learning and honing your engagement skills. The lab was created using my experience of pentesting over the years, allowing me to recreate interesting scenarios.
-The focus of the lab is operting within a Windows Active Directory environment, where players must gain a foothold, elevate their privilege, be persistent and move laterally to reach the goal of Domain Admin.</description>
+The focus of the lab is operating within a Windows Active Directory environment, where players must gain a foothold, elevate their privilege, be persistent and move laterally to reach the goal of Domain Admin.</description>
     </item>
     
   </channel>
